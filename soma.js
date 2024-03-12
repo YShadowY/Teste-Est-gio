@@ -7,3 +7,4 @@ while (k<indice){
     soma=soma+k;
 }
 console.log(soma);
+//a soma vai ser 91
